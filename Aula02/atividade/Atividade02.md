@@ -12,6 +12,7 @@ Praticar o ciclo completo de um projeto pequeno: criar os arquivos, versionar co
 | Codigo | [projetos/site-versionamento](../../projetos/site-versionamento) |
 | Tecnologias | HTML, CSS, JavaScript |
 | Hospedagem | Vercel |
+| Site publicado | [site-versionamento.vercel.app](https://site-versionamento.vercel.app) |
 
 ## Passo a passo
 

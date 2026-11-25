@@ -2,6 +2,8 @@
 
 Pagina estatica (HTML, CSS e JavaScript) usada para praticar o fluxo basico de versionamento e publicacao. Projeto das aulas [02](../../Aula02/atividade/Atividade02.md) e [03](../../Aula03/atividade/Atividade03.md).
 
+Site publicado: [site-versionamento.vercel.app](https://site-versionamento.vercel.app)
+
 ## Fluxo praticado
 
 ```bash

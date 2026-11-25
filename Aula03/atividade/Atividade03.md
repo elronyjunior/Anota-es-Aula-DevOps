@@ -10,6 +10,7 @@ Aplicar gerencia de configuracao em um projeto: identificar o que deve ou nao se
 |---|---|
 | Codigo | [projetos/site-versionamento](../../projetos/site-versionamento) |
 | Hospedagem | Vercel |
+| Site publicado | [site-versionamento.vercel.app](https://site-versionamento.vercel.app) |
 
 ## Checklist aplicado
 

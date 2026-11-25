@@ -11,7 +11,8 @@ Montar uma pipeline de CI/CD real usando actions do Marketplace, com testes, bui
 | Nome | Pipeline Site Estatico |
 | Codigo | [projetos/pipeline-site-estatico](../../projetos/pipeline-site-estatico) |
 | Workflow | [pipeline.yml](../../projetos/pipeline-site-estatico/.github/workflows/pipeline.yml) |
-| Hospedagem | GitHub Pages |
+| Hospedagem | GitHub Pages (pipeline) e Vercel |
+| Site publicado | [pipeline-site-estatico.vercel.app](https://pipeline-site-estatico.vercel.app) |
 
 ## Actions escolhidas
 

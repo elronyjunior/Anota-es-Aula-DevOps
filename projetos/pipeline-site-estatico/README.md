@@ -4,6 +4,8 @@ Site estatico com um guia rapido de CI/CD, publicado no GitHub Pages por uma pip
 
 O conteudo do site e simples de proposito. O foco esta na pipeline: cada push na `main` testa, gera o build, confere o tamanho, publica e verifica se o site respondeu.
 
+Site publicado na Vercel: [pipeline-site-estatico.vercel.app](https://pipeline-site-estatico.vercel.app)
+
 ## Fluxo da pipeline
 
 Arquivo: [`.github/workflows/pipeline.yml`](.github/workflows/pipeline.yml)

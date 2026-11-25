@@ -22,11 +22,11 @@ A ideia e que o repositorio sirva como referencia rapida: cada aula tem a teoria
 
 Projetos com codigo proprio ficam em `projetos/`. Cada pasta ja tem seu README, seus testes e seu workflow, entao pode ser movida para um repositorio separado sem ajuste.
 
-| Projeto | Descricao | Stack | Pipeline |
-|---|---|---|---|
-| [site-versionamento](projetos/site-versionamento) | Pagina estatica para praticar commits, tags e deploy na Vercel | HTML, CSS, JS | Deploy automatico da Vercel |
-| [pipeline-site-estatico](projetos/pipeline-site-estatico) | Guia de CI/CD publicado no GitHub Pages | HTML, CSS, JS, Node.js | [pipeline.yml](projetos/pipeline-site-estatico/.github/workflows/pipeline.yml) |
-| [api-registro-deploys](projetos/api-registro-deploys) | API REST com testes unitarios, de integracao e de carga | Node.js, node:test, k6, Docker | [ci.yml](projetos/api-registro-deploys/.github/workflows/ci.yml) |
+| Projeto | Descricao | Stack | Pipeline | Site |
+|---|---|---|---|---|
+| [site-versionamento](projetos/site-versionamento) | Pagina estatica para praticar commits, tags e deploy na Vercel | HTML, CSS, JS | Deploy automatico da Vercel | [site-versionamento.vercel.app](https://site-versionamento.vercel.app) |
+| [pipeline-site-estatico](projetos/pipeline-site-estatico) | Guia de CI/CD publicado no GitHub Pages | HTML, CSS, JS, Node.js | [pipeline.yml](projetos/pipeline-site-estatico/.github/workflows/pipeline.yml) | [pipeline-site-estatico.vercel.app](https://pipeline-site-estatico.vercel.app) |
+| [api-registro-deploys](projetos/api-registro-deploys) | API REST com testes unitarios, de integracao e de carga | Node.js, node:test, k6, Docker | [ci.yml](projetos/api-registro-deploys/.github/workflows/ci.yml) | - |
 
 ## Estrutura do repositorio
 
