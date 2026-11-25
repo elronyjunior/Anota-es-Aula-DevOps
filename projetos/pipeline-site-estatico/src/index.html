@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Guia Rapido de CI/CD</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Guia Rapido de CI/CD</h1>
+    <p>Do commit ao ambiente de producao, etapa por etapa.</p>
+  </header>
+  <main>
+    <section id="etapas">
+      <h2>Etapas de uma pipeline</h2>
+      <ol id="lista-etapas"></ol>
+    </section>
+    <section id="termos">
+      <h2>Termos que aparecem no dia a dia</h2>
+      <dl>
+        <dt>Integracao Continua</dt>
+        <dd>Cada alteracao enviada ao repositorio dispara build e testes automaticos.</dd>
+        <dt>Entrega Continua</dt>
+        <dd>O codigo aprovado fica sempre pronto para ir a producao, com uma aprovacao manual.</dd>
+        <dt>Implantacao Continua</dt>
+        <dd>O codigo aprovado vai para producao sem intervencao humana.</dd>
+      </dl>
+    </section>
+  </main>
+  <footer>
+    <p>Versao <span id="versao"></span> - publicado via GitHub Actions</p>
+  </footer>
+  <script src="script.js"></script>
+</body>
+</html>
