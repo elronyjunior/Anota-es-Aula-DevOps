@@ -1,0 +1,11 @@
+{
+  "name": "pipeline-site-estatico",
+  "version": "1.0.0",
+  "description": "Site estatico publicado no GitHub Pages por uma pipeline de CI/CD. Projeto da Aula 05.",
+  "scripts": {
+    "build": "node scripts/build.js",
+    "test": "node --test \"tests/*.test.js\"",
+    "check:size": "node scripts/check-size.js"
+  },
+  "license": "MIT"
+}
